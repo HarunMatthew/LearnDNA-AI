@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760505590984",
+    "project_id": "learndna-ai1",
+    "storage_bucket": "learndna-ai1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760505590984:android:461e14bc3a32ca48ba71fd",
+        "android_client_info": {
+          "package_name": "com.example.learndna_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaNTW6vvmXSEYnrfFodIQglcSEYffBlzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
