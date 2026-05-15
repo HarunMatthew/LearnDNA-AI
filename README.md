@@ -7,6 +7,7 @@
 ![AI Powered](https://img.shields.io/badge/AI-Powered-green)
 
 ---
+## APP
 
 ## 🧠 About LearnDNA AI
 
